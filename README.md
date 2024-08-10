@@ -1,0 +1,1 @@
+# Especificações do Desafio FullStack

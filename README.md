@@ -20,28 +20,28 @@ As API's sugeridas no documento enviado não estavam funcionando corretamente, l
 Segue abaixo as tarefas do quadro do trello:
 
 - Sexta-feira
-![sexta](fullstack/SEXTAFEIRA.png)
+![sexta](FULLSTACK/SEXTAFEIRA.png)
 
 - Sábado durante o dia
-![sab1](fullstack/SABADO1.png)
+![sab1](FULLSTACK/SABADO1.png)
 
 - Sábado após finalizar
-![sab2](fullstack/SABADO2.png)
+![sab2](FULLSTACK/SABADO2.png)
 
 - Domingo durante o dia
-![dom1](fullstack/DOMINGO1.png)
+![dom1](FULLSTACK/DOMINGO1.png)
 
 - Domingo após finalizar
-![dom2](fullstack/DOMINGO2.png)
+![dom2](FULLSTACK/DOMINGO2.png)
 
 - Segunda durante o dia
-![s1](fullstack/SEGUNDA1.png)
+![s1](FULLSTACK/SEGUNDA1.png)
 
 - Segunda após finalizar
-![s2](fullstack/SEGUNDA2.png)
+![s2](FULLSTACK/SEGUNDA2.png)
 
 - Terça durante o dia
-![t1](fullstack/TERCA1.png)
+![t1](FULLSTACK/TERCA1.png)
 
 - Terça após finalizar
-![t2](fullstack/TERCA2.png)
+![t2](FULLSTACK/TERCA2.png)

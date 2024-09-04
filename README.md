@@ -6,7 +6,7 @@ Em suma o projeto era um CRUD com diversos dados sobre FAP's. O principal desafi
 [Link do repositório](https://github.com/antoniocastro11/desafioESfullstack)
 
 
-[Meu linkedin](https://www.linkedin.com/in/antonio-castro-0b158a2aa/)
+[Meu linkedin](https://www.linkedin.com/in/antoniocastro11/)
 
 ## Tecnologias Utilizadas
 Para o desenvolvimento do Front-end utilizei Angular, já no Back-end Nest.js
